@@ -1,0 +1,1 @@
+place content of this folder to you base cod4 folder (where iw3mp.exe is located)
